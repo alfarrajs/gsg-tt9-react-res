@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gsg-tt9-react-res/static/css/main.371bc336.css",
+    "main.js": "/gsg-tt9-react-res/static/js/main.4f15ebe4.js",
+    "static/media/secondayBG.gif": "/gsg-tt9-react-res/static/media/secondayBG.494212487ca77f63180b.gif",
+    "static/media/landing_bg.png": "/gsg-tt9-react-res/static/media/landing_bg.bf8c28f91f4b02a4746e.png",
+    "index.html": "/gsg-tt9-react-res/index.html",
+    "main.371bc336.css.map": "/gsg-tt9-react-res/static/css/main.371bc336.css.map",
+    "main.4f15ebe4.js.map": "/gsg-tt9-react-res/static/js/main.4f15ebe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.371bc336.css",
+    "static/js/main.4f15ebe4.js"
+  ]
+}
